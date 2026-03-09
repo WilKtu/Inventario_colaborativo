@@ -32,6 +32,7 @@ def main():
             elif op == 3: 
                 separador()
                 print("SALIENDO DEL PROGRAMA ...")
+                print("hoLA mUNDop")
                 sys.exit(0)
             else:
                 separador()
