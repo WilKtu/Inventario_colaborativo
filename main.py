@@ -29,6 +29,7 @@ def main():
                 print("LISTAR PRODUCTOS")
                 separador()
                 listar_productos()
+                print("Otro Print HolAAAAA MuuuunDOOOOO")
             elif op == 3: 
                 separador()
                 print("SALIENDO DEL PROGRAMA ...")
