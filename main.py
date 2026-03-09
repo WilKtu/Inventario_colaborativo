@@ -28,8 +28,7 @@ def main():
                 separador()
                 print("LISTAR PRODUCTOS")
                 separador()
-                #listar_productos()
-                print("ERROR INTENCIONAL")
+                agregar_producto()
             elif op == 3: 
                 separador()
                 print("SALIENDO DEL PROGRAMA ...")
