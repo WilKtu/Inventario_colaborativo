@@ -33,6 +33,7 @@ def main():
                 separador()
                 print("SALIENDO DEL PROGRAMA ...")
                 print("hoLA mUNDop")
+                print("Este es otro mensaje HoLAAA MunDDOooo")
                 sys.exit(0)
             else:
                 separador()
