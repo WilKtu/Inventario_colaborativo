@@ -10,3 +10,7 @@ def agregar_producto():
         "precio": precio,
         "cantidad": cantidad
     })
+    
+def listar_productos():
+    for producto in inventario:
+        print(f"{producto['nombre']} - Precio: {producto['precio']} - Cantidad: {producto['cantidad']}")
